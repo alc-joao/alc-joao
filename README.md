@@ -4,7 +4,7 @@ Me chamo João Victor, tenho 19 anos. Atualmente, estou cursando Análise e Dese
 
 <hr>
 
-///////////////////![João Github Status](https://github-readme-stats.vercel.app/api?username=alc-joao&show_icons=true&theme=onedark)
+![João Github Status](https://github-readme-stats.vercel.app/api?username=alc-joao&show_icons=true&theme=onedark)
 
  **`Linguagens Tecnologicas`**
 
