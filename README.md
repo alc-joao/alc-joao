@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Victor 🖥️
 
-Me chamo João Victor, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo João Victor, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 <hr>
 
