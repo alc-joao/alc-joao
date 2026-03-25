@@ -41,7 +41,8 @@ Me chamo João Victor, tenho 20 anos. Atualmente, estou cursando Análise e Dese
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alc-joao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alc-joao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alc-joao\&layout=compact)
 
 <hr>
 
